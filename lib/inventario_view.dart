@@ -14,7 +14,7 @@ class _InventarioViewState extends State<InventarioView> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: const Text("Inventario"),
+        title: const Text("Inventario 2"),
       ),
       body: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 20),
