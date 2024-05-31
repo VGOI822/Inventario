@@ -146,7 +146,7 @@ class PublicacaoCard extends StatelessWidget {
                 topRight: Radius.circular(10.0),
               ),
               image: DecorationImage(
-                image: AssetImage('assets/imgs/wp22.1.jpeg'), // Substitua pelo caminho da sua imagem
+                image: AssetImage('assets/imgs/wp22.1.jpeg'), 
                 fit: BoxFit.fitHeight,
               ),
             ),
